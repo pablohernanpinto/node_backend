@@ -6,7 +6,4 @@ CREATE TABLE users (
 )
 
 
-INSERT INTO users (name, email) 
-    VALUES ('jhon doe','jhon@gmail.com'),
-    ('jane doe','jane@gmail.com'),
-    ('joaquin','montecinos@gmail.com'),
+INSERT INTO users (name, email) VALUES ('jhon doe','jhon@gmail.com'),('jane doe','jane@gmail.com'), ('joaquin','montecinos@gmail.com'),
